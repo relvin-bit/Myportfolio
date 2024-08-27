@@ -1,2 +1,3 @@
 # Myportfolio
-Building my first project tracking with VCS
+Building my first project tracking with 
+This is my first read me file
